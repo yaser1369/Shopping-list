@@ -9,7 +9,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="کارهای یاسر"
+        android:label="برنامه یاسر"
         android:theme="@style/AppTheme"
         android:supportsRtl="true">
 
